@@ -7,5 +7,6 @@ Welcome to my git page
  ![image](https://user-images.githubusercontent.com/16764412/113502591-89a08f00-952d-11eb-9c86-69ec0383dcc6.png)
 
 
-`code`![Uploading image.png…]()
+`code`
 
+![image](https://user-images.githubusercontent.com/16764412/113502641-d5ebcf00-952d-11eb-8715-b5282d874e39.png)
