@@ -6,6 +6,8 @@ Welcome to my git page
  
  ![image](https://user-images.githubusercontent.com/16764412/113502591-89a08f00-952d-11eb-9c86-69ec0383dcc6.png)
 
+menu here
+{% include simple-menu.html %}
 
 `code`
 ![image](/Images/holistic_sports_and_gestures_example.gif)
